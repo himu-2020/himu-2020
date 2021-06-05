@@ -29,10 +29,7 @@
 <br />
 <br />
 
-<table><tr>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=himu-2020&show_icons=true&hide=stars&count_private=true" alt="himu-2020" /></td>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himu-2020&layout=compact&hide=html" alt="himu-2020" /></td>
-</tr></table>
+
 
 [![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
 
