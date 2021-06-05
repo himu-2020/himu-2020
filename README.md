@@ -29,7 +29,9 @@
 <br />
 <br />
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=himu-2020&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=himu-2020&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himu-2020&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
 
 [![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
 
@@ -40,9 +42,7 @@
 ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/594853883742912512)
 ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512&style=flat-square)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=himu-2020&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=himu-2020&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himu-2020&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
+
 
 
 </div>
