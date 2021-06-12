@@ -36,9 +36,6 @@
 [![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=himu-2020&style=flat-square)
-![](https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512&logo=discord&logoColor=white&style=flat-square)
-
-![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/594853883742912512&style=flat-square)
 
 
 
