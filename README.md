@@ -1,6 +1,6 @@
 ### Hi there, I'm Himanshu - aka himu-2020 👋
 
-## I'm a Developer, and Teacher xD!!
+## I'm a Developer, and Student xD!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
