@@ -33,6 +33,8 @@
 
 [![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
 
+[![Spotify](https://now-playing-himu-2020.vercel.app/api/spotify-playing)](https://open.spotify.com/user/MarchMarch)
+
 ![](https://komarev.com/ghpvc/?username=himu-2020&style=flat-square)
 
 
