@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=himu-2020&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himu-2020&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
 
-[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
+
 
 [![](https://now-playing-himu-2020.vercel.app/api/spotify-playing)](https://open.spotify.com/user/himu-2020)
 
