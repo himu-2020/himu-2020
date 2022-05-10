@@ -1,8 +1,8 @@
 ### Hi there, I'm Himanshu - aka himu-2020 👋
 
-## I'm a Developer, and Student xD!!
+## I'm a Frontend Developer!!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and code.
 
