@@ -1,9 +1,10 @@
 ### Hi there, I'm Himanshu - aka himu-2020 👋
 
-## I'm a Web and Mobile App Developer!!
+## I'm Technical Support Engineer!!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other support enginees.
+- 🔥 I also do coding where I develop web and mobile applications.
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and code.
 
 <br />
